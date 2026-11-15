@@ -24,6 +24,3 @@ The Accident Prone Area Detection System is a Python-based data analysis project
 
 ## Objective
 To identify accident-prone areas through data analysis and visualization, helping understand accident patterns and supporting road safety planning.
-
-## Author
-Deepika
